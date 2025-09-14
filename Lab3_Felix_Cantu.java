@@ -26,7 +26,7 @@ public class Lab3_Felix_Cantu
      t = input.nextint(); // this is where they will input the ammount of elapsed years when asked
 
      A = P * (1 + r);Math.pow(t);
-     System.out.println("The final value of your home is " + "$");
+     System.out.println("The final value of your home is $" + A);
      
     
 
